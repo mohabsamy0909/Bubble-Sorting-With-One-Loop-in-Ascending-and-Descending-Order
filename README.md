@@ -1,8 +1,8 @@
-  //****Bubble Sorting of 1D Array Using One For Loop And Recursion****//
+Bubble Sorting of 1D Array Using One For Loop And Recursion
 
-//**Author :Muhabmost**//
+Author :Muhab mostafa
 
-//**Email:Muhabmost@gmail.com**//
+Email:Muhabmost@gmail.com
 
 To Run On Ubuntu:
 
