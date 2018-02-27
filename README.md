@@ -10,5 +10,5 @@ To Run On Ubuntu:
 
 > ./main
 
-![alt text](https://raw.githubusercontent.com/mohabsamy0909/Bubble-Sorting-With-One-Loop/master/Test.png)
+![alt text](https://raw.githubusercontent.com/mohabsamy0909/Bubble-Sorting-With-One-Loop/master/test.png)
 
