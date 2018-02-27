@@ -6,8 +6,8 @@
 
 To Run On Ubuntu:
 
-gcc main.c bubblesort.c -o main
+> gcc main.c bubblesort.c -o main
 
-./main
+> ./main
 
 ![alt text](https://raw.githubusercontent.com/mohabsamy0909/Bubble-Sorting-With-One-Loop/master/Test.png)
