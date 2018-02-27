@@ -11,4 +11,4 @@ To Run On Ubuntu:
 > ./main
 
 ![alt text](https://raw.githubusercontent.com/mohabsamy0909/Bubble-Sorting-With-One-Loop/master/Test.png)
-theme: jekyll-theme-dinky
+
