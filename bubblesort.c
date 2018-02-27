@@ -18,8 +18,27 @@ void GetArray(){
   scanf("%d",&arr[i++]);}
   length=number;
 }
+void SortDsn(){
+for(int i = 1; i <= length; i++)
+  {
+    if(i == length)
+    {
+        if(!Vals) break;
 
-void Sort(){
+        Vals = 0;
+        i = 1;
+    }
+    if(arr[i - 1] < arr[i])
+    {
+        int t = arr[i - 1];
+        arr[i - 1] = arr[i];
+        arr[i] = t;
+        Vals = 1;
+    }
+    }
+}
+
+void SortAsn(){
 for(int i = 1; i <= length; i++)
   {
     if(i == length)
