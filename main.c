@@ -4,5 +4,6 @@ int main(void){
 GetArray();
 Sort();
 print();
+printf("\n");
 
 }
